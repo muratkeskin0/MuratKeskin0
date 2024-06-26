@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat Keskin</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h3 align="center">A passionate developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratkeskin0&label=Profile%20views&color=0e75b6&style=flat" alt="muratkeskin0" /> </p>
 
